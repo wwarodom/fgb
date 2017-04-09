@@ -1,0 +1,12 @@
+<html>
+<head>
+	<title>Information</title>
+</head>
+<body>
+<ul>
+    <% output.data.forEach(function(d) { %>
+        <li><%= d.id %> - <%= d.message %></li>
+    <% }); %>
+</ul>
+</body>
+</html>
