@@ -17,7 +17,7 @@ $ npm install
 ```
 
 - rename config.json.example to config.json
-- update variable in config.json (Need to grab from Relate facebook links above)
+- update all variables in config.json (Need to grab from "Relate facebook links" above)
 
 ```bash
 $ node index.js
